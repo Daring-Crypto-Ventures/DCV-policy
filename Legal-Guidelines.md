@@ -14,6 +14,31 @@ More information about our procedures is below.
 
 We require any subpoena, search warrant, court order, or judgment to be issued by a US authority in compliance with the United States Federal Rules of Criminal Procedure, the Federal Rules of Civil Procedure, and/or Texas state law. We respond to court judgments from the United States only, or foreign judgments specifically adopted by a United States or Texas court. Throughout these Legal Guidelines, wherever we talk about a subpoena, search warrant, court order, or judgment, this is what we are referring to. Law enforcement agencies from outside the US may obtain these types of orders through the Mutual Legal Assistance Treaty (MLAT) process outlined in 28 U.S.C. § 1782 and 18 U.S.C. § 3512. See more about our process for non-US law enforcement requests below.
 
+### Information Do We Not Have
+
+We do not know what data you may or may not enter into any Google spreadsheet. For example, when using the HODL Totals Google Sheet Add-On you may provide:
+
+*   Transaction Dates
+*   Transaction IDs
+*   Coin amount inflows
+*   Coin amount outflows
+*   Wallet information
+*   Cryptocurrency Addresses
+
+When executing commands provided by our tools, our scripts may access your data in order to provide you with useful computations. For example, when executing the HODL Totals Google Sheet Add-on's commands, we may calculate:
+
+*   Profit and loss
+*   Short-term capital gains
+*   Long-term capital gains
+*   Overall coin totals
+*   Distribution of coins across wallets/addresses
+
+The calculated outputs of the scripts are yours to keep and maintain, and we do not have access to that data. We cannot restore your data for you if you lose or damage the data. We cannot provide this data to legal authorities. 
+
+Our scripts and add-ons are provided "as is" and without warranty of any kind. We do not promise that our Add-on will work for your purposes, or that it is free from viruses, bugs, or other defects.
+
+The data itself is yours insofar as any data in a Google sheet is yours -- the data is stored on Google servers and is subject to Google's various third-party legal agreements, terms of use and privacy policies.
+
 ### What Information Do We Have?
 
 Daring Crypto Ventures has certain information relating to users and commenters. School accounts or Discord accounts contain various information that is provided at a user’s discretion and is unverified. The following is a summary of the information that we may collect and store.
@@ -28,15 +53,29 @@ Daring Crypto Ventures has certain information relating to users and commenters
 
 2.  _Transaction and/or billing information (if upgrades have been purchased)._
 
-We will generally retain transaction and/or billing information until changed or removed by the user (if it’s possible to do so). We also collect log data, which may include a user’s IP address, browser type, and operating system. We keep this information for up to 30 days as a matter of course, absent a valid preservation request. You can read more about how we handle preservation requests under “Preservation Requests” below.
+We will generally retain transaction and/or billing information until changed or removed by the user (if it is possible to do so). We also collect log data, which may include a user’s IP address, browser type, and operating system. We keep this information for up to 30 days as a matter of course, absent a valid preservation request. You can read more about how we handle preservation requests under “Preservation Requests” below.
 
-3.  _Posting information, such as:_
+3.  _User activity information and user-provided content, such as:_
 
 *   The date and time (UTC) at which Students attend our courses
 *   The IP addresses from which Students attend and participate in our courses
 *   Content provided on discord in either public channels or direct messages
 
 We may retain the above information, even if an account or post is deleted.
+
+4.  _Information logged while interacting with the HODL Totals Google Sheet Add-On, such as:_
+
+*   Number of active users
+*   Script IDs 
+*   Uncaught exceptions
+*   Transaction counts
+*   Coin names
+*   Calculation successes and failures
+*   Dates and times when calculations take place
+*   Calculation execution duration and timing information
+
+We encourage you to inspect the code to see for yourself as the code is open sourced on github at https://github.com/dogracer/hodl-totals.
+This log data is used both for debugging purposes and for better understanding how our users in aggregate interact with HODL Totals.
 
 ### Requests from Government Agencies/Law Enforcement
 
@@ -59,7 +98,7 @@ In a civil matter, it is our policy to turn over private user information only u
 
 ### Notification to Users and Transparency
 
-We aim for total transparency with our users when legal requests for information or complaints affect their sites, accounts, or information. It is our policy to notify users and provide them with a copy of any legal requests regarding their account, unless we are prohibited from doing so by a court order issued in the US. When the prohibition from notifying users expires, we will notify users and provide them with a copy of the legal process at that time. If a request for information is validly issued, as described above in these Legal Guidelines, we will preserve the necessary information before informing the user of the request. In most cases, upon notification to the user of the request for information, that user will be provided with either 7 days or the amount of time before the information is due, whichever is later, during which time the user may attempt to quash or legally challenge the request. If, prior to the deadline, we receive notice from the user that he or she intends to challenge a request for information, we will not deliver any information until that process concludes. We also review the information requests received and may lodge our own challenge to the scope or validity of legal process received, on behalf of a user, whether or not the user pursues his/her own legal challenge.
+We aim for total transparency with our users when legal requests for information or complaints affect their accounts or information. It is our policy to notify users and provide them with a copy of any legal requests regarding their account, unless we are prohibited from doing so by a court order issued in the US. When the prohibition from notifying users expires, we will notify users and provide them with a copy of the legal process at that time. If a request for information is validly issued, as described above in these Legal Guidelines, we will preserve the necessary information before informing the user of the request. In most cases, upon notification to the user of the request for information, that user will be provided with either 7 days or the amount of time before the information is due, whichever is later, during which time the user may attempt to quash or legally challenge the request. If, prior to the deadline, we receive notice from the user that he or she intends to challenge a request for information, we will not deliver any information until that process concludes. We also review the information requests received and may lodge our own challenge to the scope or validity of legal process received, on behalf of a user, whether or not the user pursues his/her own legal challenge.
 
 ### Preservation Requests by Government and Law Enforcement Agencies
 
@@ -79,7 +118,7 @@ Any request for user information must include a valid email address for us to r
 
 ### Reporting Terms of Service Violations
 
-If you believe that a user is violating our Terms of Service, please submit a report via email to tos@daringcryptoventures.com, and we will take action as appropriate. Regardless of whether or not we take action, we may forward a copy of the complaint to the user that is the subject of the suspected violiation. We do not remove content based on disputes over the posted content on a school page or in a comment, unless the information sought to be removed is subject to an order issued by a court in the United States. We are not in a position to determine if something posted in the course of using our Services is defamatory or not. If we receive such a complaint, we defer to the judgment of a court in the United States. 
+If you believe that a user is violating our Terms of Service, please submit a report via email to tos@daringcryptoventures.com, and we will take action as appropriate. Regardless of whether or not we take action, we may forward a copy of the complaint to the user that is the subject of the suspected violation. We do not remove content based on disputes over the posted content on a school page or in a comment, unless the information sought to be removed is subject to an order issued by a court in the United States. We are not in a position to determine if something posted in the course of using our Services is defamatory or not. If we receive such a complaint, we defer to the judgment of a court in the United States. 
 
 ### Who Is Liable for Content?
 
