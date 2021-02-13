@@ -20,10 +20,10 @@ Below is our Privacy Policy, which incorporates and clarifies these principles.
 
 ### Who We Are and What This Policy Covers
 
-We are here to help crypto go mainstream. Morever, we are here to fuel cryptocurrency adoption by buliding a community of self-reliant crypto HODLers in full compliance with tax laws and regulations.
-Our mission is ambitious, but grounded in the fact that anyone armed with the right information and training can truly unbank themselves and take control of their financial lives.
+We are here to help crypto go mainstream. Moreover, we are here to fuel cryptocurrency adoption by building a community of self-reliant crypto HODLers in full compliance with tax laws and regulations.
+Our mission is ambitious but grounded in the fact that anyone armed with the right information and training can truly unbank themselves and take control of their financial lives.
 
-We believe in solutions grounded in the open internet, with code that is open source and available under the General Public License (“GPL”). Unlike the software used by many other crypto service companies, because our code is public, you can actually download and take a look at the code to see how it works.
+We believe in solutions grounded in the open internet, with code that is open source and available under the General Public License (“GPL”). Unlike the software used by many other crypto service companies, our source code is public so you can actually download and take a look at the code to see how it works.
 
 This Privacy Policy applies to information that we collect about you when you use:
 
@@ -58,7 +58,7 @@ about our Services with you.
 
 We also collect some information automatically:
 
-*   **Log information:** Like most online service providers, we collect information that web browsers, mobile devices, and servers typically make available, including the browser type, IP address, unique device identifiers, language preference, referring site, the date and time of access, operating system, and mobile network information. We collect log information when you use our Services — for example, when you login and and complete a course on dcv.teachable.com.
+*   **Log information:** Like most online service providers, we collect information that web browsers, mobile devices, and servers typically make available, including the browser type, IP address, unique device identifiers, language preference, referring site, the date and time of access, operating system, and mobile network information. We collect log information when you use our Services — for example, when you login and complete a course on dcv.teachable.com.
 *   **Usage information:** We collect information about your usage of our Services. For example, we collect information about the actions that our students perform in the School — in other words, who did what and when. Our usage tracker also tracks information like your email address and site settings. We also collect information about what happens when you use our Services (e.g., page views, searches on our site, along with information about your device (e.g., screen size, name of cellular network, and mobile device manufacturer). We use this information to, for example, provide our Services to you, get insights on how people use our Services so we can make our Services better, and understand and make predictions about user retention.
 *   **Location information:** We may determine the approximate location of your device from your IP address. We collect and use this information to, for example, calculate how many people visit our Services from certain geographic regions. We may also collect information about your precise location via our mobile apps if you allow us to do so through your mobile device operating system’s permissions.
 *   **Stored information:** We may access information stored on your mobile device via our mobile apps. We access this stored information through your device operating system’s permissions. For example, if you use our mobile app to manage your crypto lifestyle on the go, our Services may access your camera or stored photos to pull in wallet addresses stored as QR codes.
