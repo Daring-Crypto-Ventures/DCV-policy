@@ -23,7 +23,7 @@ Below is our Privacy Policy, which incorporates and clarifies these principles.
 We are here to help crypto go mainstream. Moreover, we are here to fuel cryptocurrency adoption by building a community of self-reliant crypto HODLers in full compliance with tax laws and regulations.
 Our mission is ambitious but grounded in the fact that anyone armed with the right information and training can truly unbank themselves and take control of their financial lives.
 
-We believe in solutions grounded in the open internet, with code that is open source and available under the General Public License (“GPL”). Unlike the software used by many other crypto service companies, our source code is public so you can actually download and take a look at the code to see how it works.
+We believe in solutions grounded in the open internet, with code that is open source and available under the MIT License. Unlike the software used by many other crypto service companies, our source code is public so you can actually download and take a look at the code to see how it works.
 
 This Privacy Policy applies to information that we collect about you when you use:
 
