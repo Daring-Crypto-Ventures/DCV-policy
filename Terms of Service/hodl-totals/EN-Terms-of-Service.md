@@ -1,6 +1,6 @@
 # Terms & Conditions
 
-These Terms and Conditions (“Terms”) are a legal agreement between Daring Crypto Ventures LLC, the owners and creators of HODL Totals herein known as “DCV”, and the person or entity agreeing to the terms herein (“Customer”, “You” or “you”). By using or accessing any part of HODL Totals (the “Service”), You agree that You have read, understand, and agree to be bound by all of the terms and conditions contained herein. PLEASE READ THESE TERMS CAREFULLY BEFORE USING THE SERVICE. If You do not agree to these Terms, You must not use or access the Service. If You are entering into this Terms on behalf of a company, You represent that You have the authority to bind that company to these Terms.
+These Terms and Conditions (“Terms”) are a legal agreement between Daring Crypto Ventures LLC, the owners and creators of HODL Totals herein known as “DCV”, and the person or entity agreeing to the terms herein (“Customer”, “You” or “you”). By using or accessing any part of HODL Totals (the “Service”), such as by installing the HODL Totals Add-on, you accept these conditions. You agree that You have read, understand, and agree to be bound by all of the terms and conditions contained herein. PLEASE READ THESE TERMS CAREFULLY BEFORE USING THE SERVICE. If You do not agree to these Terms, You must not use the Service and must not install the HODL Totals Add-on. If You are entering into this Terms on behalf of a company, You represent that You have the authority to bind that company to these Terms.
 
 Please print and keep a copy of this Agreement. If you do not agree to abide by the terms and conditions of this Agreement, please do not become a user of HODL Totals. Use of the software constitutes acceptance of this agreement.
 
@@ -94,9 +94,7 @@ DCV may give notice to you by electronic mail, if such contact information is av
     
 ## Privacy Information
 
-By using the software, you are agreeing that DCV may collect, use, sell, license and otherwise distribute demographic data about users in aggregated form (so that no user is personally identifiable) to assist in market evaluation and for other purposes as reasonably determined by DCV.
-
-During the term of these Terms, if You choose to use the Service and choose to notify DCV that you are using the service through any means, DCV may (i) orally state that You are a HODL Totals customer, (ii) include Your name or trademarks, trade names, service marks or logos in a list of HODL Totals customers (whether in DCV's online or offline promotional materials) and (iii) generally describe the products or services it provides to You in its promotional materials, presentations and proposals to other current and prospective customers. You may revoke DCV’s right to use your trademarks, trade names, service marks or logos under this paragraph with written notice to DCV and a reasonable period to stop the use.
+Please review our [Privacy Policy](https://dogracer.github.io/DCV-policy/Privacy-Policy) to undestand our practices.
 
 ## Confidentiality
 
