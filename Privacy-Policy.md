@@ -207,5 +207,5 @@ That’s it! Thanks for reading.
 
 ## Change log
 
-*   April 25, 2021_: Added additional reason for using data (_To claim you are a customer_)
+*   _April 25, 2021_: Added additional reason for using data (_To claim you are a customer_)
 *   _February 2, 2021_: Initial draft.
