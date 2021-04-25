@@ -32,7 +32,7 @@ You understand and agree that DCV does not have the ability to grant or revoke a
 
 The Customer will at all times use commercially reasonable efforts to: (i) prevent unauthorized access to or use of the Service, and notify DCV as soon as possible of any such unauthorized access to or use of the Service, and (ii) be fully responsible for its’ Users compliance with the terms of this Agreement. Customer agrees to indemnify DCV for all claims and losses related to any such acts and/or omissions, except to the extent such acts and/or omissions are within the ordinary intended use of the Service for which DCV has granted Customer the foregoing license.
       
-All copyrightable materials which are included as a part of HODL Totals including, without limitation, the DCV and HODL Totals logos (and the selection and arrangement thereof) are COPYRIGHT © 2021 Daring Crypto Ventures LLC. ALL RIGHTS RESERVED. Any unauthorized use of such intellectual property will violate applicable law. All violations will be prosecuted and all infringing parties will be pursued to the full extent of the law. If you have any special requests or questions about using our copyrightable materials, contact DCV at tos@daringcryptoventures.com.
+All copyrightable materials which are included as a part of HODL Totals including, without limitation, the DCV and HODL Totals logos (and the selection and arrangement thereof) are COPYRIGHT © 2021 Daring Crypto Ventures LLC. ALL RIGHTS RESERVED. Any unauthorized use of such intellectual property will violate applicable law. All violations will be prosecuted and all infringing parties will be pursued to the full extent of the law. If you have any special requests or questions about using our copyrightable materials, contact DCV at [tos@daringcryptoventures.com](mailto:tos@daringcryptoventures.com).
 
 Furthermore, any comments, ideas and/or reports about the Service that you provide to us, whether in written or electronic form (“Feedback”), shall be considered our proprietary and confidential information, and you hereby irrevocably transfer and assign to us all intellectual property rights embodied in or arising in connection with such Feedback, and any other rights or claims that you may have with respect to any such Feedback.
     
@@ -106,7 +106,7 @@ Pursuant to our [Legal Guidelines](https://dogracer.github.io/DCV-policy/Legal-G
 
 ## Contact Information
     
-For further information or support regarding the HODL Totals terms of service, you are encouraged to contact the owners at tos@daringcryptoventures.com.
+For further information regarding the HODL Totals terms of service, you are encouraged to contact DCV at [tos@daringcryptoventures.com](mailto:tos@daringcryptoventures.com).
                    
 ## Miscellaneous
     
