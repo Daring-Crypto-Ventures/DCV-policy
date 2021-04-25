@@ -35,7 +35,28 @@ The Customer will at all times use commercially reasonable efforts to: (i) preve
 All copyrightable materials which are included as a part of HODL Totals including, without limitation, the DCV and HODL Totals logos (and the selection and arrangement thereof) are COPYRIGHT © 2021 Daring Crypto Ventures LLC. ALL RIGHTS RESERVED. Any unauthorized use of such intellectual property will violate applicable law. All violations will be prosecuted and all infringing parties will be pursued to the full extent of the law. If you have any special requests or questions about using our copyrightable materials, contact DCV at [tos@daringcryptoventures.com](mailto:tos@daringcryptoventures.com).
 
 Furthermore, any comments, ideas and/or reports about the Service that you provide to us, whether in written or electronic form (“Feedback”), shall be considered our proprietary and confidential information, and you hereby irrevocably transfer and assign to us all intellectual property rights embodied in or arising in connection with such Feedback, and any other rights or claims that you may have with respect to any such Feedback.
-    
+
+## Access, scopes, permissions and authorization
+When using any of our web apps and add-ons Scripts, hosted on Google Apps servers, you would be asked for authorization to access several services running on your Google account,  as shown below. 
+
+### About the purpose and actual use of each of these scopes.
+Depending on the Script you are using, you might just have to authorize just some of these scopes
+
+* **View and manage documents that this application has been installed in:**
+   * For the script to read and write data found only in the documents you install and use with the script.
+* **View and manage data associated with the application:**
+   * For DCV to read and write the properties, usage stats, and error/warning messages associated with the deployed script.
+* **Display and run third-party web content in prompts and sidebars inside Google applications:**
+   * To show web content in a sidebar or dialog (needed for the HODL Totals About dialog).
+
+### Developer access
+
+Note that the Script having access to those services doesn’t mean we do. We, as the developers, won’t have direct access to any of those services neither to your data within your Google account or domain. 
+
+### Revoking access
+
+You can remove any app with access to your Google Account [from your account's permissions page](https://myaccount.google.com/permissions).
+
 ## Prohibited Uses
 
 You agree NOT to use HODL Totals software for any of the following purposes or activities:
