@@ -168,7 +168,7 @@ You can usually access, correct, or delete your personal data using your account
 
 ## How to Reach Us
 
-If you have a question about this Privacy Policy, or you would like to contact us about any of the rights mentioned in the Your Rights section above, please contact us via [email](mailto:privacypolicy@daringcryptoventures.com). This is the fastest ways to get a response to your inquiry.
+If you have a question about this Privacy Policy, or you would like to contact us about any of the rights mentioned in the Your Rights section above, please contact us via email at [privacypolicy@daringcryptoventures.com](mailto:privacypolicy@daringcryptoventures.com). This is the fastest ways to get a response to your inquiry.
 
 ## Other Things You Should Know (Keep Reading!)
 
