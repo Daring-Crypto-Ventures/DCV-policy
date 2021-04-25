@@ -41,7 +41,7 @@ The data itself is yours insofar as any data in a Google sheet is yours -- the d
 
 Daring Crypto Ventures has certain information relating to users and commenters. School accounts or Discord accounts contain various information that is provided at a user’s discretion and is unverified. The following is a summary of the information that we may collect and store.
 
-1.  _Basic account information, such as:_
+###  Basic account information, such as:
 
 *   Username
 *   Email address
@@ -49,11 +49,11 @@ Daring Crypto Ventures has certain information relating to users and commenters
 *   Mailing address
 *   Phone number
 
-2.  _Transaction and/or billing information (if upgrades have been purchased)._
+###  Transaction and/or billing information (if upgrades have been purchased).
 
 We will generally retain transaction and/or billing information until changed or removed by the user (if it is possible to do so). We also collect log data, which may include a user’s IP address, browser type, and operating system. We keep this information for up to 30 days as a matter of course, absent a valid preservation request. You can read more about how we handle preservation requests under “Preservation Requests” below.
 
-3.  _User activity information and user-provided content, such as:_
+###  User activity information and user-provided content, such as:
 
 *   The date and time (UTC) at which Students attend our courses
 *   The IP addresses from which Students attend and participate in our courses
@@ -61,7 +61,7 @@ We will generally retain transaction and/or billing information until changed or
 
 We may retain the above information, even if an account or post is deleted.
 
-4.  _Information logged while interacting with the HODL Totals Google Sheet Add-On, such as:_
+### Information logged while interacting with the HODL Totals Google Sheet Add-On, such as:
 
 *   Number of active users
 *   Script IDs 
