@@ -8,6 +8,8 @@ HODL Totals is not directed to children. Access to and use of HODL Totals is onl
 
 These terms are the entire agreement between DCV and you with respect to the software. Headings in these Terms are for your convenience only and do not have any legal meaning or effect. If any part of these terms are invalid, the rest of the Terms will remain in effect. If DCV waives or fails to enforce any term or condition of this agreement on any one or more occasions, whether by conduct or otherwise, its waiver or failure to enforce will not mean that it must waive or cannot enforce such term or condition on any other occasion, or any other term or condition of this agreement. The meaning of these Terms cannot be changed by your or DCV's conduct, even if repeated, or by any custom or practice of others engaged in the same or similar businesses.
 
+Our web apps and add-ons scripts are hosted on Google Apps servers and all your data stays there within your Google account. Both the scripts and your data will enjoy the same Terms of Services (TOS) and Service Level Agreement (SLA) you already have with Google.
+
 ## Modifications to these Terms
 
 DCV reserves the right to update and change the Terms of Service upon notice from time to time. You will be provided notice of any such modification by email, by announcement in our Discord, or by the publishing of such on the HODL Totals website's [Terms of Service page](https://dogracer.github.io/DCV-policy/Terms%20of%20Service/hodl-totals/EN-Terms-of-Service). You may terminate your use of the Service if the Terms are modified in a manner that substantially affects your rights in connection with use of the Service. Your continued use of the Service after any such changes shall constitute your consent to such changes. You can review the most current version of the Terms of Service at any time at the HODL Totals website's [Terms of Service page](https://dogracer.github.io/DCV-policy/Terms%20of%20Service/hodl-totals/EN-Terms-of-Service). You can view the [revision history of the Terms of Service at any time on GitHub](https://github.com/dogracer/DCV-policy/blob/master/Terms%20of%20Service/hodl-totals/EN-Terms-of-Service.md).
@@ -28,6 +30,8 @@ Access to the Service is only available to the Customer and the end users (“Us
 
 Use of HODL Totals is subject to the Customer’s compliance with these Terms and Google's Terms (available at [https://policies.google.com/terms](https://policies.google.com/terms)), including, without limitation, Customer’s payment of all applicable fees (the “Subscription Fees”), DCV hereby grants Customer a world-wide, revocable, non-transferable, non-exclusive, non-sublicensable license to access and use, execute, perform and display the Service, solely for Customer’s own internal use.
 
+We are reliant upon Google Cloud Platform technologies, that are constantly evolving, usually for the better. However, as a result, features that we are using and relying on, might be discontinued by Google in the future. We aim to adapt and evolve as Google technologies does, but we cannot guarantee we will always succeed on that effort.
+
 You understand and agree that DCV does not have the ability to grant or revoke any sharing permissions to Customer's Data or other content and materials stored in Customer’s User Account. Therefore, You are solely responsible for granting access to such Data and revoking such access when You cease use of the Service. DCV shall not be responsible and shall have no liability for any damages that result from Your failure to grant or revoke such access.
 
 The Customer will at all times use commercially reasonable efforts to: (i) prevent unauthorized access to or use of the Service, and notify DCV as soon as possible of any such unauthorized access to or use of the Service, and (ii) be fully responsible for its’ Users compliance with the terms of this Agreement. Customer agrees to indemnify DCV for all claims and losses related to any such acts and/or omissions, except to the extent such acts and/or omissions are within the ordinary intended use of the Service for which DCV has granted Customer the foregoing license.
@@ -37,10 +41,10 @@ All copyrightable materials which are included as a part of HODL Totals includin
 Furthermore, any comments, ideas and/or reports about the Service that you provide to us, whether in written or electronic form (“Feedback”), shall be considered our proprietary and confidential information, and you hereby irrevocably transfer and assign to us all intellectual property rights embodied in or arising in connection with such Feedback, and any other rights or claims that you may have with respect to any such Feedback.
 
 ## Access, scopes, permissions and authorization
-When using any of our web apps and add-ons Scripts, hosted on Google Apps servers, you would be asked for authorization to access several services running on your Google account,  as shown below. 
+When using any of our web apps and add-ons Scripts, hosted on Google Apps servers, you will be asked for authorization to access several services running on your Google account, as shown below. 
 
-### About the purpose and actual use of each of these scopes.
-Depending on the Script you are using, you might just have to authorize just some of these scopes
+### About the purpose and actual use of each of these scopes
+Depending on the script you are using, you might have to authorize just some of these scopes
 
 * **View and manage documents that this application has been installed in:**
    * For the script to read and write data found only in the documents you install and use with the script.
@@ -51,7 +55,8 @@ Depending on the Script you are using, you might just have to authorize just som
 
 ### Developer access
 
-Note that the Script having access to those services doesn’t mean we do. We, as the developers, won’t have direct access to any of those services neither to your data within your Google account or domain. 
+Note that the Script having access to these services doesn’t mean that developers do. 
+We, as the developers, won’t have direct access to any of those services neither to your data within your Google account or domain. 
 
 ### Revoking access
 
@@ -100,7 +105,9 @@ DCV may, in their sole and absolute discretion, and with or without notice, susp
 * DCV reserves the right, at its sole discretion, to modify or replace any part of this Agreement. It is your responsibility to check this Agreement periodically for changes. Your continued use of the software following the posting of any changes to this Agreement constitutes acceptance of those changes. DCV may also, in the future, offer new services and/or features in the software (including, the release of new tools and resources). Such new features and/or services shall be subject to the terms and conditions of this Agreement.
         
 ## Limitation of Liability
-    
+
+* The same way that Google's [End Users Using Scripts or Add-ons Terms](https://developers.google.com/apps-script/terms#end_users_using_scripts_or_add-ons) declines to assume any responsibility for Scripts or Add-ons, we also do decline as declared in such Terms.
+
 * UNDER NO CIRCUMSTANCES, INCLUDING NEGLIGENCE, SHALL DARING CRYPTO VENTURES LLC OR ANY OF ITS OWNERS OR EMPLOYEES BE LIABLE TO YOU OR ANYONE ELSE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE, EXEMPLARY OR CONSEQUENTIAL DAMAGES (INCLUDING DAMAGES THAT ARISE FROM LOSS OF ANTICIPATED REVENUE, LOSS OF INFORMATION OR MATERIAL OF ANY KIND, LOST PROFITS, LOSS OF BUSINESS AND INJURY TO PROPERTY, EVEN IF DCV HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES) THAT ARISE IN CONNECTION WITH OR RESULT FROM YOUR USE OF OR INABILITY TO USE THE SOFTWARE INCLUDING, BUT NOT LIMITED TO, YOUR RELIANCE ON ANY MATERIALS, CONTENT, INFORMATION, WEBSITES, SOFTWARE OR PRODUCTS OBTAINED IN THE SOFTWARE, OR MISTAKES, OMISSIONS, INTERRUPTIONS, COMMUNICATIONS FAILURE, DELETION OF FILES OR E-MAIL, ERRORS, DEFECTS, VIRUSES, TROJAN HORSES, DELAYS IN OPERATION OR TRANSMISSION, OR ANY FAILURE OF PERFORMANCE, OR THEFT, DESTRUCTION OR UNAUTHORIZED ACCESS TO YOUR RECORDS, PROGRAMS, WEBSITES OR SOFTWARE. SOME STATES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, AND IN SUCH STATES DCV'S LIABILITY IS LIMITED TO THE GREATEST EXTENT PERMITTED BY LAW.
         
 * The resources on websites that can be accessed with hypertext links from or using HODL Totals are not maintained by DCV, and DCV is not responsible for the availability or accuracy or such sites or resources, or the content, advertising, or products on or available from such sites or resources. Such sites may be governed by legal notices and privacy policies, which differ from those of this software.
