@@ -18,7 +18,7 @@ At DCV, we have a few fundamental principles:
 
 Below is our Privacy Policy, which incorporates and clarifies these principles.
 
-### Who We Are and What This Policy Covers
+## Who We Are and What This Policy Covers
 
 We are here to help crypto go mainstream. Moreover, we are here to fuel cryptocurrency adoption by building a community of self-reliant crypto HODLers in full compliance with tax laws and regulations.
 Our mission is ambitious but grounded in the fact that anyone armed with the right information and training can truly unbank themselves and take control of their financial lives.
@@ -34,15 +34,15 @@ This Privacy Policy applies to information that we collect about you when you us
 
 This Privacy Policy also applies to information we collect when you apply for a job at Daring Crypto Ventures LLC or one of our subsidiaries. Throughout this Privacy Policy we’ll refer to our websites, mobile applications, and other products and services collectively as “Services.” Please note that this Privacy Policy does not apply to any of our products or services that have a separate privacy policy. Below we explain how we collect, use, and share information about you, along with the choices that you have with respect to that information.
 
-### Creative Commons Sharealike License
+## Creative Commons Sharealike License
 
 This Privacy Policy is available under a [Creative Commons Sharealike](https://creativecommons.org/licenses/by-sa/4.0/) license. You can grab a copy of this Privacy Policy and other legal documents on [GitHub](https://github.com/dogracer/DCV-policy). You’re more than welcome to copy it, adapt it, and repurpose it for your own use. Just make sure to revise the language so that your policy reflects your actual practices. If you do use it, we’d appreciate a credit and link to Daring Crypto Ventures somewhere on your site.
 
-### Information We Collect
+## Information We Collect
 
 We only collect information about you if we have a reason to do so — for example, to provide our Services, to communicate with you, or to make our Services better. We collect this information from three sources: if and when you provide information to us, automatically through operating our Services, and from outside sources. Let’s go over the information that we collect.
 
-#### _Information You Provide to Us_
+### _Information You Provide to Us_
 
 It’s probably no surprise that we collect information that you provide to us directly. Here are some examples:
 
@@ -54,7 +54,7 @@ about our Services with you.
 *   **Communications with us:** You may also provide us with information when you respond to surveys, communicate with our Engineers about a support question, post a question in our public forums, or sign up for a newsletter. When you communicate with us via form, email, phone, chat, comment, or otherwise, we store a copy of our communications (including any call recordings as permitted by applicable law).
 *   **Job applicant information:** If you apply for a job with us — awesome! You may provide us with information like your name, contact information, resume or CV, and work authorization verification as part of the application process.
 
-#### _Information We Collect Automatically_
+### _Information We Collect Automatically_
 
 We also collect some information automatically:
 
@@ -64,13 +64,13 @@ We also collect some information automatically:
 *   **Stored information:** We may access information stored on your mobile device via our mobile apps. We access this stored information through your device operating system’s permissions. For example, if you use our mobile app to manage your crypto lifestyle on the go, our Services may access your camera or stored photos to pull in wallet addresses stored as QR codes.
 *   **Information from cookies & other technologies:** A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Pixel tags (also called web beacons) are small blocks of code placed on websites and emails. We may use cookies and other technologies like pixel tags to help us identify and track visitors, usage, and access preferences for our Services, as well as track and understand email campaign effectiveness and to deliver targeted ads.
 
-#### _Information We Collect from Other Sources_
+### _Information We Collect from Other Sources_
 
 We may also get information about you from other sources. For example, if you create or log in to your Teachable account through another service, we’ll receive information from that service (e.g., your username, basic profile information) via the authorization procedures for that service. The information we receive depends on which services you use or authorize and what options are available. Third-party services may also give us information, like mailing addresses for individuals who are not yet our users (but we hope will be!). We use this information for marketing purposes like postcards and other mailers advertising our Services.
 
-### How and Why We Use Information
+## How and Why We Use Information
 
-#### _Purposes for Using Information_
+### _Purposes for Using Information_
 
 We may collect and use information about you for the purposes listed below:
 
@@ -83,13 +83,13 @@ We may collect and use information about you for the purposes listed below:
 *   **To communicate with you.** For example, by emailing you to ask for your feedback, share tips for getting the most out of our products, or keep you up to date on the latest crypto regulations; texting you to verify your payment; or calling you to share offers and promotions that we think will be of interest to you. If you don’t want to hear from us, you can opt out of marketing communications at any time. (If you opt out, we’ll still send you important updates relating to your account.)
 *   **To recruit and hire new employees.** For example, by evaluating job applicants and communicating with them.
 
-#### _Legal Bases for Collecting and Using Information_
+### _Legal Bases for Collecting and Using Information_
 
 A note here for those in the European Union about our legal grounds for processing information about you under EU data protection laws, which is that our use of your information is based on the grounds that: (1) The use is necessary in order to fulfill our commitments to you under the applicable terms of service or other agreements with you or is necessary to administer your account — for example, in order to enable access to our website on your device or charge you for a paid plan; or (2) The use is necessary for compliance with a legal obligation; or (3) The use is necessary in order to protect your vital interests or those of another person; or (4) We have a legitimate interest in using your information — for example, to provide and update our Services; to improve our Services so that we can offer you an even better user experience; to safeguard our Services; to communicate with you; to measure, gauge, and improve the effectiveness of our advertising; and to understand our user retention and attrition; to monitor and prevent any problems with our Services; and to personalize your experience; or (5) You have given us your consent — for example before we place certain cookies on your device and access and analyze them later on.
 
-### Sharing Information
+## Sharing Information
 
-#### _How We Share Information_
+### _How We Share Information_
 
 We can share information about you in limited circumstances, and with appropriate safeguards on your privacy.
 
@@ -104,19 +104,19 @@ We can share information about you in limited circumstances, and with appropriat
 
 We have a policy that we do not sell, trade or rent our users' data. We aren't a data broker, we don't sell your personal information to data brokers, and we don't sell your information to other companies that want to spam you with marketing emails.
 
-#### _Information Shared Publicly_
+### _Information Shared Publicly_
 
 Information that you choose to make public is — you guessed it — disclosed publicly. That means information like your public profile, posts, discord channel comments, other content that you make public are all available to others — and we hope they get a lot of views! Public information may also be indexed by search engines or used by third parties. Please keep all of this in mind when deciding what you would like to share publicly.
 
-### How Long We Keep Information
+## How Long We Keep Information
 
 We generally discard information about you when it’s no longer needed for the purposes for which we collect and use it — described in the section above on How and Why We Use Information — and we’re not legally required to keep it. For example, we keep web server logs that record information about a visitor to one of our websites, like the visitor’s IP address, browser type, and operating system, for approximately 30 days. We retain the logs for this period of time in order to, among other things, analyze traffic to our websites and investigate issues if something goes wrong on one of our websites.
 
-### Security
+## Security
 
 While no online service is 100% secure, we work hard to protect information about you against unauthorized access, use, alteration, or destruction, and take reasonable measures to do so.
 
-### Choices
+## Choices
 
 You have several choices available when it comes to information about you:
 
@@ -126,11 +126,11 @@ You have several choices available when it comes to information about you:
 *   **Set your browser to reject cookies:** You can usually choose to set your browser to remove or reject browser cookies before using Daring Crypto Ventures' websites, with the drawback that certain features of Daring Crypto Ventures' websites may not function properly without the aid of cookies.
 *   **Close your account:** While we’d be very sad to see you go, you can unenroll from the School, leave the Discord server and close your account if you no longer want to use our Services. Please keep in mind that we may continue to retain your information after closing your account, as described in How Long We Keep Information above — for example, when that information is reasonably needed to comply with (or demonstrate our compliance with) legal obligations such as law enforcement requests, or reasonably needed for our legitimate business interests.
 
-### Your Rights
+## Your Rights
 
 If you are located in certain parts of the world, including California and countries that fall under the scope of the European General Data Protection Regulation (aka the “GDPR”), you may have certain rights regarding your personal information, like the right to request access to or deletion of your data.
 
-#### _European General Data Protection Regulation (GDPR)_
+### _European General Data Protection Regulation (GDPR)_
 
 If you are located in a country that falls under the scope of the GDPR, data protection laws give you certain rights with respect to your personal data, subject to any exemptions provided by the law, including the rights to:
 
@@ -142,7 +142,7 @@ If you are located in a country that falls under the scope of the GDPR, data pro
 
 You also have the right to make a complaint to a government supervisory authority.
 
-#### _California Consumer Privacy Act (CCPA)_
+### _California Consumer Privacy Act (CCPA)_
 
 The California Consumer Privacy Act (“CCPA”) requires us to provide California residents with some additional information about the categories of personal information we collect and share, where we get that personal information, and how and why we use it. The CCPA also requires us to provide a list of the “categories” of personal information we collect, as that term is defined in the law, so, here it is. We may collect the following categories of personal information from California residents, depending on the Services used:
 
@@ -162,33 +162,33 @@ You can find more information about what we collect and sources of that informat
 *   Opt out of any sale of personal information; and
 *   Not receive discriminatory treatment for exercising your rights under the CCPA.
 
-#### _Contacting Us About These Rights_
+### _Contacting Us About These Rights_
 
 You can usually access, correct, or delete your personal data using your account settings and tools that we offer, but if you aren’t able to or you’d like to contact us about one of the other rights, scroll down to "How to Reach Us” to, well, find out how to reach us. When you contact us about one of your rights under this section, we’ll need to verify that you are the right person before we disclose or delete anything. For example, if you are a user, we will need you to contact us from the email address associated with your account. You can also designate an authorized agent to make a request on your behalf by giving us written authorization. We may still require you to verify your identity with us.
 
-### How to Reach Us
+## How to Reach Us
 
 If you have a question about this Privacy Policy, or you would like to contact us about any of the rights mentioned in the Your Rights section above, please contact us via [email](mailto:privacypolicy@daringcryptoventures.com). This is the fastest ways to get a response to your inquiry.
 
-### Other Things You Should Know (Keep Reading!)
+## Other Things You Should Know (Keep Reading!)
 
-#### _Transferring Information_
+### _Transferring Information_
 
 Because Daring Crypto Ventures' Services are offered worldwide, the information about you that we process when you use the Services in the EU may be used, stored, and/or accessed by individuals operating outside the European Economic Area (EEA) who work for us, other members of our group of companies, or third-party data processors. This is required for the purposes listed in the How and Why We Use Information section above. When providing information about you to entities outside the EEA, we will take appropriate measures to ensure that the recipient protects your personal information adequately in accordance with this Privacy Policy as required by applicable law. These measures include entering into European Commission approved standard contractual arrangements with entities based in countries outside the EEA. You can ask us for more information about the steps we take to protect your personal information when transferring it from the EU.
 
-#### _Ads and Analytics Services Provided by Others_
+### _Ads and Analytics Services Provided by Others_
 
 Ads appearing on any of our Services may be delivered by advertising networks. Other parties may also provide analytics services via our Services. These ad networks and analytics providers may set tracking technologies (like cookies) to collect information about your use of our Services and across other websites and online services. These technologies allow these third parties to recognize your device to compile information about you or others who use your device. This information allows us and other companies to, among other things, analyze and track usage, determine the popularity of certain content, and deliver ads that may be more targeted to your interests. Please note this Privacy Policy only covers the collection of information by Daring Crypto Ventures and does not cover the collection of information by any third-party advertisers or analytics providers.
 
-#### _Third-Party Software and Services_
+### _Third-Party Software and Services_
 
 If you’d like to use third-party software or services, please keep in mind that interacting with them may mean providing information about yourself to those third parties. For example, some third-party services may request or require access to your data via a pixel or cookie. For example, to use the HODL Totals Google Sheet Add-on you will need a Google account that is subject to Google's privacy policy and practices. Please note that if you use a third-party service or grant access, your data will be handled in accordance with that third party’s privacy policy and practices. We don’t own or control these third parties, and they have their own rules about information collection, use, and sharing, which you should review before using the software or services.
 
-### Privacy Policy Changes
+## Privacy Policy Changes
 
 Although most changes are likely to be minor, Daring Crypto Ventures may change its Privacy Policy from time to time. Daring Crypto Ventures encourages visitors to frequently check this page for any changes to its Privacy Policy. If we make changes, we will notify you by revising the change log below, and, in some cases, we may provide additional notice (like adding a statement to our homepage, blog or sending you a notification through email or your dashboard). Your further use of the Services after a change to our Privacy Policy will be subject to the updated policy. You acknowledge and agree that it is your responsibility to review this Privacy Policy periodically and become aware of modifications. 
 
-### Your Acceptance of these terms
+## Your Acceptance of these terms
 
 By enrolling in the School, you signify your acceptance of this Privacy Policy. If you do not agree to this Privacy Policy, please do not enroll in the School. Your continued enrollment in the School following the posting of changes to this Privacy Policy will be deemed your acceptance of those changes.
 
@@ -198,12 +198,12 @@ By subscribing to our email newsletter, you signify your acceptance of this Priv
 
 By joining the Discord server, you signify your acceptance of this Privacy Policy. If you do not agree to this Privacy Policy, please do not join our Discord server. Your continued membership in the Discord server following the posting of changes to this Privacy Policy will be deemed your acceptance of those changes.
 
-### Translation
+## Translation
 
 Our Privacy Policy was originally written in English (US). We may translate it into other languages.
 In the event of a conflict between a translated version of our Privacy Policy and the English version, the English version will control. 
 That’s it! Thanks for reading.
 
-### Change log
+## Change log
 
 *   _February 2, 2021_: Initial draft.
