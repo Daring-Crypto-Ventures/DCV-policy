@@ -137,3 +137,13 @@ Users who are concerned about maintaining their anonymity when using our service
 ### A Note on Back Doors and Encryption
 
 We furnish user information to third parties via the processes described in these Legal Guidelines. We do not provide access to user data through “back doors” in our systems. Similarly, we support and promote encryption of user data. We encrypt all traffic (serve over SSL) for all of our sites, by default. Some governments have recently sought to weaken encryption in the name of law enforcement. We disagree with these suggestions and do not believe that it is feasible to include any deliberate security weaknesses or other back doors in encryption technologies, even if “only” for the benefit of law enforcement. [As a wise man said](http://www.theguardian.com/technology/2014/oct/09/crypto-wars-redux-why-the-fbis-desire-to-unlock-your-private-life-must-be-resisted), “there is no such thing as a vulnerability in technology that can only be used by nice people doing the right thing in accord with the rule of law.” We agree wholeheartedly.
+
+### Translation
+
+Our Legal Guidelines were originally written in English (US). We may translate it into other languages.
+In the event of a conflict between a translated version of our Legal Guidelines and the English version, the English version will control. 
+That’s it! Thanks for reading.
+
+### Change log
+
+*   _February 13, 2021_: Initial draft.
