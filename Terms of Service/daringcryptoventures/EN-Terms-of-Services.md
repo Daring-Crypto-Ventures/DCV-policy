@@ -95,7 +95,7 @@ The materials appearing on the School’s website may include technical, typogra
 The School may revise these Terms at any time without notice. We may update, change, or discontinue any aspect of our Services at any time. Since we’re constantly updating our Services, we sometimes have to change the legal terms under which they’re offered. If we make changes, we will notify you by revising the change log below, and, in some cases, we may provide additional notice (like adding a statement to our homepage, blog or sending you a notification through email or your dashboard). Your continued use of our Services after the new terms take effect will be subject to the new terms, so if you disagree with the changes in the new terms, you should stop using our Services. By using this website you are agreeing to be bound by the then current version of these Terms of Use.
 
 ## How to Reach Us
-If you have a question about these Terms, please contact us via email at [tos@daringcryptoventures.com]((mailto:tos@daringcryptoventures.com). This is the fastest ways to get a response to your inquiry.
+If you have a question about these Terms, please contact us via email at [tos@daringcryptoventures.com](mailto:tos@daringcryptoventures.com). This is the fastest ways to get a response to your inquiry.
 
 ## Legal Processes, Jurisdiction and Applicable Law
 
