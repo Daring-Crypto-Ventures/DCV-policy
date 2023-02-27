@@ -14,7 +14,7 @@ We require any subpoena, search warrant, court order, or judgment to be issued b
 
 ## Information Do We Not Have
 
-We do not know what data you may or may not enter into any Google spreadsheet. For example, when using the HODL Totals Google Sheet Add-On you may provide:
+We do not know what data you may or may not enter into any Google spreadsheet. For example, when using the HODL Totals add-on you may provide:
 
 *   Transaction Dates
 *   Transaction IDs
@@ -23,7 +23,7 @@ We do not know what data you may or may not enter into any Google spreadsheet. F
 *   Wallet information
 *   Cryptocurrency Addresses
 
-When executing commands provided by our tools, our scripts may access your data in order to provide you with useful computations. For example, when executing the HODL Totals Google Sheet Add-on's commands, we may calculate:
+When executing commands provided by our tools, our scripts may access your data in order to provide you with useful computations. For example, when executing the HODL Totals add-on's commands, we may calculate:
 
 *   Profit and loss
 *   Short-term capital gains
@@ -61,7 +61,7 @@ We will generally retain transaction and/or billing information until changed or
 
 We may retain the above information, even if an account or post is deleted.
 
-### Information logged while interacting with the HODL Totals Google Sheet Add-On, such as:
+### Information logged while interacting with the HODL Totals add-On, such as:
 
 *   Number of active users
 *   Script IDs 

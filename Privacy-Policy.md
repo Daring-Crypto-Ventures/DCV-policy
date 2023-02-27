@@ -3,7 +3,7 @@
 This Privacy Policy governs the manner in which Daring Crypto Ventures LLC ("DCV") collects, uses, maintains and discloses information collected from users (“Students" of the School, "Consumers" of the Open-Source Software we provide, "Subscribers" to our newsletters, and "Members" of our Discord server). 
 
 This Privacy Policy applies to the Daring Crypto Ventures School and all Courses offered by the School. 
-This Privacy Policy applies to the HODL Totals Google Sheet Add-on.
+This Privacy Policy applies to the HODL Totals add-on for Google Sheets™.
 This Privacy Policy applies to subscribers of our email newsletter.
 This Privacy Policy applies to our Discord server.
 
@@ -28,7 +28,7 @@ We believe in solutions grounded in the open internet, with code that is open so
 This Privacy Policy applies to information that we collect about you when you use:
 
 *   Our websites (including daringcryptoventures.com, hodltotals.com, dcv.teachable.com);
-*   Our open source tools available on github and through the Google Workspace Marketplace (including the HODL Totals Google Sheet Add-on);
+*   Our open source tools available on github and through the Google Workspace™ Marketplace (including the HODL Totals add-on);
 *   Our mobile applications (including the HODL Totals mobile app for Android and iOS);
 *   Our other products, services, and features that are available on or through our websites (for example, the Daring Crypto Ventures School courses on dcv.teachable.com, expertise shared via Discord Server chats, useful content shared in our email newsletters)
 
@@ -183,7 +183,7 @@ Ads appearing on any of our Services may be delivered by advertising networks. O
 
 ### _Third-Party Software and Services_
 
-If you’d like to use third-party software or services, please keep in mind that interacting with them may mean providing information about yourself to those third parties. For example, some third-party services may request or require access to your data via a pixel or cookie. For example, to use the HODL Totals Google Sheet Add-on you will need a Google account that is subject to Google's privacy policy and practices. Please note that if you use a third-party service or grant access, your data will be handled in accordance with that third party’s privacy policy and practices. We don’t own or control these third parties, and they have their own rules about information collection, use, and sharing, which you should review before using the software or services.
+If you’d like to use third-party software or services, please keep in mind that interacting with them may mean providing information about yourself to those third parties. For example, some third-party services may request or require access to your data via a pixel or cookie. For example, to use the HODL Totals add-on you will need a Google account that is subject to Google's privacy policy and practices. Please note that if you use a third-party service or grant access, your data will be handled in accordance with that third party’s privacy policy and practices. We don’t own or control these third parties, and they have their own rules about information collection, use, and sharing, which you should review before using the software or services.
 
 ## Privacy Policy Changes
 
@@ -193,7 +193,7 @@ Although most changes are likely to be minor, DCV may change its Privacy Policy 
 
 By enrolling in the School, you signify your acceptance of this Privacy Policy. If you do not agree to this Privacy Policy, please do not enroll in the School. Your continued enrollment in the School following the posting of changes to this Privacy Policy will be deemed your acceptance of those changes.
 
-By installing the HODL Totals Google Sheet Add-on, you signify your acceptance of this Privacy Policy. If you do not agree to this Privacy Policy, please do not install the HODL Totals Google Sheet Add-on. Your continued use of the add-on following the posting of changes to this Privacy Policy will be deemed your acceptance of those changes.
+By installing the HODL Totals add-on, you signify your acceptance of this Privacy Policy. If you do not agree to this Privacy Policy, please do not install the HODL Totals add-on. Your continued use of the add-on following the posting of changes to this Privacy Policy will be deemed your acceptance of those changes.
 
 By subscribing to our email newsletter, you signify your acceptance of this Privacy Policy. If you do not agree to this Privacy Policy, please do not sign up for our email newsletter. By taking no action to unsubscribe from our newsletter email list following the posting of changes to this Privacy Policy, this inaction will be deemed your acceptance of those changes.
 
