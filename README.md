@@ -1,9 +1,9 @@
 # Daring Crypto Ventures LLC Policy documents
 
 **HODL Totals** 
--- [Terms of Service](https://dogracer.github.io/DCV-policy/Terms%20of%20Service/hodl-totals/EN-Terms-of-Service) 
--- [Privacy Policy](https://dogracer.github.io/DCV-policy/Privacy-Policy)
--- [Legal Guidelines](https://dogracer.github.io/DCV-policy/Legal-Guidelines)
+-- [Terms of Service](https://daring-crypto-ventures.github.io/DCV-policy/Terms%20of%20Service/hodl-totals/EN-Terms-of-Service) 
+-- [Privacy Policy](https://daring-crypto-ventures.github.io/DCV-policy/Privacy-Policy)
+-- [Legal Guidelines](https://daring-crypto-ventures.github.io/DCV-policy/Legal-Guidelines)
 
 ### What is this?
 This is the source of several "legal documents" (community guidelines, privacy, TOS, etc.) for Daring Crypto Ventures LLC projects.
